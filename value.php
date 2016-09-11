@@ -1,104 +1,138 @@
 <?php
-$botPintar=array(
+$Ppintar=array(
 array(
 array(
-            "sange",
-          "bokep",
-        "ngentot",
-      "porno",
-    "mesum",
+            "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+          "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+        "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+      "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+    "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-            "http",
-              "situs",
-                "link",
-                  "blog",
-                    "server",
+            "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+          "🎅 <name> 🎅 Fell the Power of #Malik_Botterx  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+        "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+      "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+    "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-            "",
+          "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-            "salkomsel",
-        "jempol",
-    "like",
+              "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+        "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+    "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-            "gembira",
-            "bahagia",
-            "senang",
+            "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+            "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+            "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
 array(
 array(
-              "",
+              "🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 
-array(
-array(
-"setan",
-"iblis",
-"dajjal",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 )),
 );
 
-$botNormal=array(
-"",
+$Nnormal=array(
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 );
 
-$botNomer=array(
+$Nnomer=array(
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"G ?",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ),
 array(
-"",
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 ));
 
-$botPhoto=array(
-"",
+$Pphoto=array(
+"🎅 <name> 🎅 Fell the Power of #UMMEE_BOT TEAM  3:)
+♡ Personal Bot Used By 👈💡👉 || <me> || ♡",
 );
 
 function getJam($name){
@@ -123,11 +157,11 @@ $bln =
 $bulan[gmdate('n',time()+60*60
 *7)];
 $thn = gmdate('Y',time()+60*60*7);
-$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
+$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));  '.$nm.'
 
-return ' '.$jam.'  😈 《☆》 UMMEE BOT TEAM (A) 《☆》 😈 
-
-🌹 UMAIR LIAQUATT 🌹  MRDJ SHAYAN 🌹 PRIYANSHU KAMBOJ 🌹 ABDULLAH FARHAN 🌹 JUNAID JAHANGIR 🌹 WANTED KASHAN 🌹 MIAN UZAIR 🌹 WARAN KING 🌹 UMAIR MALIK ll 🌹 '.$name.' '.$hr;
+return '♡ Self Site Url 👈💡👉 umair-bot.ml ♡  
+[+] Bot Powered By <3 Umair Malik II <3
+[+] facebook.com/profile.php || <3 <3 || '.$hr;
 }
 
 function getPower($nm,$tm,$tk){
@@ -153,7 +187,7 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Seconds 💙';
+$ups=$text.' '.$d.' Seconds ??';
 }else{
 $ups=$text.' '.$m.'  '.$d.'  ';}
 }
@@ -162,8 +196,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='<3 BOT SITE <3 http://umair-bot.ml/ <3
-《☆》 BOT MAKER 👈🔫👉 UMAIR MALIK II《☆》';
+$site='';
 $true=$ops.'
  '.$ips.'
  '.$site;
@@ -194,23 +227,23 @@ return getEmo($couse);
 return $couse;}
 }
 
-function getTex($or,$id,$txt,$nm,$me,$tok,$botPintar,$botNomer,$botNormal,$botPhoto=null){
+function getTex($or,$id,$txt,$nm,$me,$tok,$Ppintar,$Nnomer,$Nnormal,$Pphoto=null){
 $intruksi=array(
-'nomer',
-'pintar',
-'normal',
+'nnomer',
+'ppintar',
+'nnormal',
 );
-if($txt=='photo'){
+if($txt=='pphoto'){
 $exit=$txt;
 }else{
 $exe=$intruksi[rand(0,count($intruksi)-1)];
 }
 if($exit){
-$pht=$botPhoto[rand(0,count($botPhoto)-1)];
+$pht=$Pphoto[rand(0,count($Pphoto)-1)];
 return getStr($pht,$txt,$nm,$me,$or);
 }else{
-if($exe=='pintar'){
-foreach($botPintar as $jet){
+if($exe=='ppintar'){
+foreach($Ppintar as $jet){
 for($u=0;$u<=count($jet);$u++){
 $lose=$jet[0][$u];
 $wine=$jet[1][$u];;
@@ -221,29 +254,29 @@ break;}}
 if($ups){
 return getStr($ups,$txt,$nm,$me,$or);
 }else{
-$cass=$botNormal[rand(0,count($botNormal)-1)];
+$cass=$Nnormal[rand(0,count($Nnormal)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}
 }else{
-if($exe=='nomer'){
+if($exe=='nomerr'){
 $get=getUrl('/'.$id.'/comments',$tok,array(
 'fields' => 'id,from,message',
 ));
 if($get[2]){
-$no=$botNomer[3][rand(0,count($botNomer[3])-1)];
+$no=$Nnomer[3][rand(0,count($Nnomer[3])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[2][from][name]);
 }else{
 if($get[1]){
-$no=$botNomer[2][rand(0,count($botNomer[2])-1)];
+$no=$Nnomer[2][rand(0,count($Nnomer[2])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[1][from][name]);
 }else{
 if($get[0]){
-$no=$botNomer[1][rand(0,count($botNomer[1])-1)];
+$no=$Nnomer[1][rand(0,count($Nnomer[1])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[0][from][name]);
 }else{
-$no=$botNomer[0][rand(0,count($botNomer[0])-1)];
+$no=$Nnomer[0][rand(0,count($Nnomer[0])-1)];
 return getStr($no,$txt,$nm,$me,$or);}}}
 }else{
-$cass=$botNormal[rand(0,count($botNormal)-1)];
+$cass=$Nnormal[rand(0,count($Nnormal)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}}}
 }
 
@@ -287,7 +320,7 @@ $crack=getPower($use[2],$use[3],$tok);
 }
 if(preg_match('/pic/',$use[0])){
 $lay=explode('pic',$use[0]);
-$text=getTex($is,$lay[1],'photo',$use[2],$nm,$tok,$ay,$ey,$iy,$uy).'
+$text=getTex($is,$lay[1],'pphoto',$use[2],$nm,$tok,$ay,$ey,$iy,$uy).'
 
 '.$crack;
 getUrl('/'.$lay[1].'/comments',$tok,array(
@@ -350,7 +383,7 @@ $me=getUrl('/me/home',$tk,array(
 for($i=0;$i<=count($me);$i++){
 $typ=$me[$i][type];
 $frm=$me[$i][from][id];
-if($typ=='photo'){
+if($typ=='pphoto'){
 if(preg_match('/'.$frm.'/',$out)){}else{
 $oh='pic'.$me[$i][id].'*';}
 }else{
@@ -393,9 +426,9 @@ $else=$ar;
 }
 if($else){
 foreach($else as $b => $c){
-$ashir[]=$b.'='.$c;
+$cokis[]=$b.'='.$c;
 }
-$true='?'.implode('&',$ashir);
+$true='?'.implode('&',$cokis);
 $true=getGr($mb,$true);
 $true=json_decode(one($true),true);
 if($true[data]){
@@ -404,9 +437,9 @@ return $true[data];
 return $true;}
 }else{
 foreach($black as $b => $c){
-$ashir[]=$b.'='.$c;
+$cokis[]=$b.'='.$c;
 }
-$true='?'.implode('&',$ashir);
+$true='?'.implode('&',$cokis);
 $true=getGr($mb,$true);
 $true=one($true);
 
@@ -419,7 +452,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by haxer.heck.in',
+CURLOPT_USERAGENT => 'DESCRIPTION by monxu.heck.in',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -590,6 +623,7 @@ urldecode('%F3%BE%94%BD'),
 urldecode('%F3%BE%9F%9C'),
 urldecode('%F3%BE%A0%93'),
 urldecode('%F3%BE%A0%94'),
+
 urldecode('%F3%BE%A0%9A'),
 urldecode('%F3%BE%A0%9C'),
 urldecode('%F3%BE%A0%9D'),
@@ -623,28 +657,20 @@ return($mess);
 }
 
 
-$pen=opendir('ashir');
+$pen=opendir('cokis');
 while($on=readdir($pen)){
 if($on != '.' && $on != '..'){
 $slout[]=$on;}
 }
 foreach($slout as $me){
-$true=file_get_contents('ashir/'.$me);
+$true=file_get_contents('cokis/'.$me);
 $break=explode('*',$true);
 $cek=getUrl('/me',$break[0],array(
 'fields' => 'id,name',
 ));
 if($cek[id]){
-getMe($botPintar,$botNomer,$botNormal,$botPhoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
+getMe($Ppintar,$Nnomer,$Normal,$Pphoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
 }else{
-unlink('ashir/'.$me);}
+unlink('cokis/'.$me);}
 }
 ?>
-
-
-
-
-
-
-
-
