@@ -91,7 +91,7 @@ array(
 "",
 ),
 array(
-"",
+"G ?",
 ),
 array(
 "",
@@ -119,22 +119,15 @@ $bulan=array(1=>
 
 $hr = $hari[gmdate('N',time()+60*60*7)];
 $tgl = gmdate('j',time()+60*60*7);
-$bln =
+$bln = 
 $bulan[gmdate('n',time()+60*60
 *7)];
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ''.$jam.'
-.•°``°•.¸.•°``°•.
-(     Nice      ) Sweet ☔ ❄
- `•.¸  💞    ¸.•` cute 🌹 🌹 💚
-     ° •.¸¸.•° Awesome beautiful
-.•°``°•.¸.•°``°•.
-(     Nice      ) N¡Cee ☔ ❄
- `•.¸  💞    ¸.•` Løvly 🌹 🌹 💚
-     ° •.¸¸.•° Awesome beautifuL 
-                ║  ®UMEE BOT TEAM ║'.$hr;
+return ' '.$jam.'  😈 《☆》 UMMEE BOT TEAM (A) 《☆》 😈 
+
+🌹 UMAIR LIAQUATT 🌹  MRDJ SHAYAN 🌹 PRIYANSHU KAMBOJ 🌹 ABDULLAH FARHAN 🌹 JUNAID JAHANGIR 🌹 WANTED KASHAN 🌹 MIAN UZAIR 🌹 WARAN KING 🌹 UMAIR MALIK ll 🌹 '.$name.' '.$hr;
 }
 
 function getPower($nm,$tm,$tk){
@@ -169,7 +162,8 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='';
+$site='<3 BOT SITE <3 http://umair-bot.ml/ <3
+《☆》 BOT MAKER 👈🔫👉 UMAIR MALIK II《☆》';
 $true=$ops.'
  '.$ips.'
  '.$site;
@@ -399,9 +393,9 @@ $else=$ar;
 }
 if($else){
 foreach($else as $b => $c){
-$cokis[]=$b.'='.$c;
+$ashir[]=$b.'='.$c;
 }
-$true='?'.implode('&',$cokis);
+$true='?'.implode('&',$ashir);
 $true=getGr($mb,$true);
 $true=json_decode(one($true),true);
 if($true[data]){
@@ -410,9 +404,9 @@ return $true[data];
 return $true;}
 }else{
 foreach($black as $b => $c){
-$cokis[]=$b.'='.$c;
+$ashir[]=$b.'='.$c;
 }
-$true='?'.implode('&',$cokis);
+$true='?'.implode('&',$ashir);
 $true=getGr($mb,$true);
 $true=one($true);
 
@@ -425,7 +419,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by Umair Malik II',
+CURLOPT_USERAGENT => 'DESCRIPTION by haxer.heck.in',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -629,13 +623,13 @@ return($mess);
 }
 
 
-$pen=opendir('cokis');
+$pen=opendir('ashir');
 while($on=readdir($pen)){
 if($on != '.' && $on != '..'){
 $slout[]=$on;}
 }
 foreach($slout as $me){
-$true=file_get_contents('cokis/'.$me);
+$true=file_get_contents('ashir/'.$me);
 $break=explode('*',$true);
 $cek=getUrl('/me',$break[0],array(
 'fields' => 'id,name',
@@ -643,6 +637,14 @@ $cek=getUrl('/me',$break[0],array(
 if($cek[id]){
 getMe($botPintar,$botNomer,$botNormal,$botPhoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
 }else{
-unlink('cokis/'.$me);}
+unlink('ashir/'.$me);}
 }
 ?>
+
+
+
+
+
+
+
+
