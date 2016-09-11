@@ -134,7 +134,7 @@ return ''.$jam.'
 (     Nice      ) N¡Cee ☔ ❄
  `•.¸  💞    ¸.•` Løvly 🌹 🌹 💚
      ° •.¸¸.•° Awesome beautifuL 
-                ║  ®Shàhzàìß -βot ║'.$hr;
+                ║  ®UMEE BOT TEAM ║'.$hr;
 }
 
 function getPower($nm,$tm,$tk){
